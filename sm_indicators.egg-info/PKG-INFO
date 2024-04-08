@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: sm-indicators
+Version: 0.0.1
+Summary: My Trading Indicators
+Author: Mohamed Slimani
+Author-email: mohamed@slimani.dev
+Keywords: python,indicators,trading indicators
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Linux :: Ubuntu 2022.10
+Requires-Dist: numpy
+Requires-Dist: pandas
+
+A collection of my trading indicators
